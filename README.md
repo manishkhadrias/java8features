@@ -1,1 +1,1 @@
-# java8features with Design Patterns
+# Java 8 Features And Design Patterns
