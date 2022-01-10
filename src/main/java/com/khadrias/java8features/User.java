@@ -1,5 +1,9 @@
 package com.khadrias.java8features;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class User {
 
 	private String name;

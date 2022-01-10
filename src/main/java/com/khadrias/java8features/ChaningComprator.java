@@ -4,6 +4,10 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class ChaningComprator {
 
 	public static void main(String[] args) {

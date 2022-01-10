@@ -1,5 +1,9 @@
 package com.khadrias.java8features.design_patterns.creational.factorymetthod;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class NotificationExecutorFactory {
 
 	public static NotificationExecutor getNotificationExecutor(ExecutorType executorType) {

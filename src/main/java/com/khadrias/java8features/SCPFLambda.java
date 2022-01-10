@@ -9,6 +9,10 @@ import java.util.function.Function;
 import java.util.function.IntSupplier;
 import java.util.function.Supplier;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class SCPFLambda {
 
 	public static void main(String[] args) {

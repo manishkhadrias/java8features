@@ -1,5 +1,9 @@
 package com.khadrias.java8features.design_patterns.structural.adapter;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class GermanToUKPlugConnectorAdapter implements UKPlugConnector {
 
 	private GermanPlugConnector plug;

@@ -7,6 +7,10 @@ import java.util.function.Consumer;
 import java.util.function.Predicate;
 import java.util.function.ToIntFunction;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class ChaningLambda {
 
 	public static void main(String[] args) {

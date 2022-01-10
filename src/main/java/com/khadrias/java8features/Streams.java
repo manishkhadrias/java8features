@@ -8,6 +8,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class Streams {
 
 	public static void countFrequencies(List<Integer> ints) {

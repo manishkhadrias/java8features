@@ -1,5 +1,9 @@
 package com.khadrias.java8features;
 
+/**
+ * @author manishkhadria
+ *
+ */
 public class StringConcatenation {
 
 	public static void main(String[] args) {

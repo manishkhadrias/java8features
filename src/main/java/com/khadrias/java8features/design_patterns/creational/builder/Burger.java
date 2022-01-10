@@ -1,6 +1,10 @@
 package com.khadrias.java8features.design_patterns.creational.builder;
 
 // 
+/**
+ * @author manishkhadria
+ *
+ */
 public class Burger {
 	private String bread;
 	private String patty;
